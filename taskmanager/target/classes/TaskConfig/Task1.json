@@ -1,0 +1,5 @@
+[
+{"id":1,"actionName":"Test","className":"callaction","isRun":true,"packageName":"com.taskbusiness.demo1","runIntervalSecond":1,"runMaxSecond":3,"taskName":"task1.demo1.Test"},
+{"id":2,"actionName":"Test","className":"callaction","isRun":true,"packageName":"com.taskbusiness.demo2","runIntervalSecond":1,"runMaxSecond":3,"taskName":"task2.demo2.Test"},
+{"id":3,"actionName":"TestMongodb","className":"callaction","isRun":true,"packageName":"com.taskbusiness.demo2","runIntervalSecond":1,"runMaxSecond":3,"taskName":"task2.demo2.TestMongodb"}
+]
